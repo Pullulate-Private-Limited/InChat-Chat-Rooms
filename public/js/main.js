@@ -70,6 +70,7 @@ function outputRoomName(room) {
   roomName.innerText = room;
 }
 
+
 // Add users to DOM
 function outputUsers(users) {
   userList.innerHTML = '';
